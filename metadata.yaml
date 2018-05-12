@@ -1,0 +1,46 @@
+_repo: Dust-of-New-York_43095
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43095-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bercovici, Konrad
+    alias: Berkovichi, Konrad
+    birthdate: 1882
+    deathdate: 1961
+    gutenberg_agent_id: '35483'
+    url: http://www.gutenberg.org/2009/agents/35483
+    wikipedia: http://en.wikipedia.org/wiki/Konrad_Bercovici
+description: Title; Contents; Theresa the Vamp; The Troubles of a Perfect Type; How
+  the Ibanezes Love; The Little Man of 28th Street; The Newly-Rich Goldsteins; All
+  in One Wild Roumanian Song; Expensive Poverty; Why Her Name is Marguerite V. L.
+  F. Clement; Luleika, the Rich Widow; Because Cohen Could Neither Read nor Write;
+  The Marriage Broker's Daughter; The New Secretary of the Pretzel-Painters' Union;
+  The Gypsy Blood that Tells; When Stark's Café was Closed; Because of Bookkeeping;
+  The Strength of the Weak; Socialists! Beware of Mrs. Rosenberg; A Conflict of Ideals;
+  The Holy Healer from Omsk
+gutenberg_issued: '2013-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43095'
+  lccn: '19018642'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+tableOfContents: Theresa the vamp -- The troubles of a perfect type -- How the Ibanezes
+  love -- The little man of Twenty-eighth Street -- The newly-rich Goldsteins -- All
+  in one wild Roumanian song -- Expensive poverty -- Why her name is Marguerite V.L.F.
+  Clement -- Luleika, the rich widow -- Because Cohen could neither read nor write
+  -- The marriage broker's daughter -- The new secretary of the pretzel-painter's
+  union -- The gypsy blood that tells -- When Stark's Café was closed -- Because of
+  bookkeeping -- The strength of the weak -- Socialists! Beware of Mrs. Rosenberg
+  -- A conflict of ideals -- The holy healer from Omsk -- Hirsh Roth's theory -- The
+  tragedy of Afghian's living rug -- Babeta's dog -- The professor -- The pure motive.
+title: Dust of New York
+url: http://www.gutenberg.org/ebooks/43095
